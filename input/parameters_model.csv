@@ -1,0 +1,9 @@
+parameter,value
+zeroEventProb,0.7
+meanEventPoisson,2
+logShockSd,0.05
+sevLNormLoc,15
+sevLNormSd,2
+sevLNormProb,0.7
+sevParetoLoc,100000
+sevParetoShape,2
